@@ -1,6 +1,6 @@
 {
   "name": "netlify-plugin-importmap-single-spa",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Netlify send files to import-map-deployer!",
   "main": "index.js",
   "repository": "https://github.com/single-spa-books/netlify-plugin-importmap-single-spa.git",
