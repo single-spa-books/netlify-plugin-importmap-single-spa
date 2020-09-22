@@ -1,0 +1,17 @@
+{
+  "name": "netlify-plugin-importmap-single-spa",
+  "version": "0.0.1",
+  "description": "Netlify send files to import-map-deployer!",
+  "main": "index.js",
+  "repository": "https://github.com/single-spa-books/netlify-plugin-importmap-single-spa.git",
+  "bugs": {
+    "url": "https://github.com/single-spa-books/netlify-plugin-importmap-single-spa/issues"
+  },
+  "author": "Mallone Wesley Nogueira",
+  "license": "MIT",
+  "keywords": [
+    "netlify",
+    "netlify-plugin"
+  ],
+  "dependencies": {}
+}
