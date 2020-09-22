@@ -47,6 +47,6 @@ Add the following lines to your `netlify.toml` file:
   IMPORTMAP_SERVICE = "@single-spa-books/root-config"
   IMPORTMAP_FILE_URL = "https://single-spa-books.netlify.app/"
   IMPORTMAP_URL = "https://single-spa-books.herokuapp.com/services?skip_url_check"
-  IMPORTMAP_AUTH = Basic c2sduZ2xvLX43NwYS1i7295cy
+  IMPORTMAP_AUTH = "Basic c2sduZ2xvLX43NwYS1i7295cy"
 
 ```
